@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="500"
+   viewBox="0 0 211.66666 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="макет.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.80899997"
+     inkscape:cx="254.63536"
+     inkscape:cy="289.86404"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1.01288"
+       id="rect35"
+       width="211.66667"
+       height="132.29167"
+       x="-7.1054274e-15"
+       y="0" />
+    <circle
+       style="stroke:none;stroke-width:0.371038;fill:#ff0000;fill-opacity:1"
+       id="path981"
+       cx="-13.229167"
+       cy="-13.229167"
+       transform="scale(-1)"
+       r="13.229167" />
+    <circle
+       style="stroke:none;stroke-width:0.371038;fill:#ff0000;fill-opacity:1"
+       id="circle1180"
+       cx="-13.229167"
+       cy="-13.229167"
+       transform="scale(-1)"
+       r="13.229167"
+       inkscape:tile-cx="13.229167"
+       inkscape:tile-cy="13.229167"
+       inkscape:tile-w="26.458333"
+       inkscape:tile-h="26.458333"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="0" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       id="use1280" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(0,26.458333)"
+       id="use1282" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(0,52.916666)"
+       id="use1284" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(0,79.375)"
+       id="use1286" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(0,105.83333)"
+       id="use1288" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(26.458333)"
+       id="use1290" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(26.458333,26.458333)"
+       id="use1292" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(26.458333,52.916666)"
+       id="use1294" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(26.458333,79.375)"
+       id="use1296" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(26.458333,105.83333)"
+       id="use1298" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(52.916666)"
+       id="use1300" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(52.916666,26.458333)"
+       id="use1302" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(52.916666,52.916666)"
+       id="use1304" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(52.916666,79.375)"
+       id="use1306" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(52.916666,105.83333)"
+       id="use1308" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(79.375)"
+       id="use1310" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(79.375,26.458333)"
+       id="use1312" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(79.375,52.916666)"
+       id="use1314" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(79.375,79.375)"
+       id="use1316" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(79.375,105.83333)"
+       id="use1318" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(105.83333)"
+       id="use1320" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(105.83333,26.458333)"
+       id="use1322" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(105.83333,52.916666)"
+       id="use1324" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(105.83333,79.375)"
+       id="use1326" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(105.83333,105.83333)"
+       id="use1328" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(132.29167)"
+       id="use1330" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(132.29167,26.458333)"
+       id="use1332" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(132.29167,52.916666)"
+       id="use1334" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(132.29167,79.375)"
+       id="use1336" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(132.29167,105.83333)"
+       id="use1338" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(158.75)"
+       id="use1340" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(158.75,26.458333)"
+       id="use1342" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(158.75,52.916666)"
+       id="use1344" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(158.75,79.375)"
+       id="use1346" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(158.75,105.83333)"
+       id="use1348" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(185.20833)"
+       id="use1350" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(185.20833,26.458333)"
+       id="use1352" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(185.20833,52.916666)"
+       id="use1354" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(185.20833,79.375)"
+       id="use1356" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#circle1180"
+       xlink:href="#circle1180"
+       transform="translate(185.20833,105.83333)"
+       id="use1358" />
+  </g>
+</svg>
