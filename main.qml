@@ -9,6 +9,7 @@ Window {
     visible: true
     title: qsTr("4 Rows")
     color: "blue"
+    
     Background {
         id: background
     }
