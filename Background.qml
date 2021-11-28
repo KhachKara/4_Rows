@@ -1,14 +1,13 @@
 import QtQuick 2.0
 
-Item {
+Item {    
     id: root
+
     Column {
         Repeater {
-            prooperty int j = index
             model: 5
             Row {
                 Repeater{
-                    prooperty int i = index
                     model: 8
                     Rectangle {
                         id: rectCicle
