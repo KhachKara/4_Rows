@@ -16,5 +16,7 @@ Window {
 
     Circle {
         id: circleCenter
+        x: x + 7
+        y: y + 7
     }
 }
