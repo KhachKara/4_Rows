@@ -1,9 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>Assets/макет.svg</file>
-        <file>Assets/4_rows_background.svg</file>
         <file>Circle.qml</file>
-        <file>Background.qml</file>
+        <file>CircleBack.qml</file>
     </qresource>
 </RCC>
