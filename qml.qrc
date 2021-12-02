@@ -3,5 +3,7 @@
         <file>main.qml</file>
         <file>Circle.qml</file>
         <file>CircleBack.qml</file>
+        <file>MouseAreas.qml</file>
+        <file>Logic4Rows.qml</file>
     </qresource>
 </RCC>
