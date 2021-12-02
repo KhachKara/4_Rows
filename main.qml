@@ -40,10 +40,13 @@ Window {
         anchors {
             left: root.left
         }
+        property int horCenter: parent.height / 2
+        property int vertCenter: parent.width / 2
         MouseArea {
             anchors.fill: parent
             onClicked: {
                 zone1.opacity = 0.25
+                logic4Rows.loadCircle(zone1.horCenter, zone1.vertCenter)
             }
         }
     }
@@ -55,7 +58,10 @@ Window {
         }
         MouseArea {
             anchors.fill: parent
-            onClicked: zone2.opacity = 0.25
+            onClicked: {
+                zone2.opacity = 0.25
+                logic4Rows.loadCircle()
+            }
         }
     }
     MouseAreas {
